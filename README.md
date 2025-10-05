@@ -1,9 +1,5 @@
 Yjaln
-  Desire to code.
-  - Currently a zig developer;
-  - C/C++ when needed; 
-
-A truck can not fit where a truck has not. 
+  Desire code. 
 
 contact me at:
   superreader10000@gmail.com
